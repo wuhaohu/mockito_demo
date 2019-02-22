@@ -4,7 +4,10 @@ import com.github.pagehelper.PageInfo;
 import com.saic.model.UserDomain;
 
 /**
- * Created by Administrator on 2018/4/19.
+ * @author: create by nadao
+ * @version: v1.0
+ * @description: com.saic
+ * @date:2019-02-21
  */
 public interface UserService {
 

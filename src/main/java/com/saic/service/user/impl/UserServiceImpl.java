@@ -11,7 +11,10 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/8/16.
+ * @author: create by nadao
+ * @version: v1.0
+ * @description: com.saic
+ * @date:2019-02-21
  */
 @Service(value = "userService")
 public class UserServiceImpl implements UserService {

@@ -1,4 +1,6 @@
-package com.mockito.Demo; /**
+package com.mockito.Demo;
+
+/**
  * @author: create by nadao
  * @version: v1.0
  * @description: PACKAGE_NAME

@@ -1,5 +1,11 @@
 package com.saic.model;
 
+/**
+ * @author: create by nadao
+ * @version: v1.0
+ * @description: com.saic
+ * @date:2019-02-21
+ */
 public class UserDomain {
     private Integer user_Id;
 
